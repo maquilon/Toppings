@@ -7,4 +7,4 @@ Get Started
 2. Run npm Install
 3. Run npm start
 
-
+![snapshot](https://www.maquilon.com/d/toppings.JPG)
