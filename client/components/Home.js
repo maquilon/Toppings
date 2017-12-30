@@ -39,7 +39,7 @@ class Home extends Component {
         // Display the results on the table.
         let rows = [];
         let TopFrequentOrders = sortedToppings.forEach((topping, i) => {
-            if (i > 20) {
+            if (i > 19) {
                 return true
             } else {
                 rows.push(<tr key={i} className="table-dark" >
